@@ -16,8 +16,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s1_embedded_sol_1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -26,7 +26,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s2_b4d9c945-2443-4a20-ab63-7dcb4f4195cf.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -41,8 +41,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s3_embedded_sol_3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -56,8 +56,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s4_fe61987f-15cf-4f4f-9bfb-34402f85cc00.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -71,8 +71,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s5_3cc2e3b7-133b-4324-b5e4-f06b9f593714.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -86,7 +86,7 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s6_02c40360-1306-411c-95d5-61db0369731b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -96,7 +96,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s7_3840d381-2eb7-4dda-a1a4-96d90b098c96.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -111,7 +111,7 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s8_aa93e4ea-ff4e-40c1-b311-a2472090f56f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -121,7 +121,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s9_eadbe8c0-831a-4664-91d2-9ff448adf7f2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -136,7 +136,7 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s10_acbec653-fdeb-4901-a418-cc336e9708e1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -151,8 +151,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s11_7e20867e-a9b7-4659-a6b2-e3d1ab6bb0a1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -166,8 +166,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s12_a38c5a87-99f9-47d3-a342-2f7565ee4708.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -176,7 +176,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s13_73e5f3d1-d3e8-473a-a832-d3b3073b9748.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -191,8 +191,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s14_8cd7fd3a-3e63-419c-b11b-ca44de799b4c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -206,8 +206,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s15_fcb96fab-707c-414b-a3ac-b7a79fb417d3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -221,8 +221,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s16_a03297c7-2fe0-4924-8ddc-df45fa8c50e6.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -236,7 +236,7 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s17_d41dc6e0-67fc-4be0-ad3f-5ef3905a7263.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -251,8 +251,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s18_e26af0b8-8f03-4323-80f0-779919853724.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -266,8 +266,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s19_ddf11193-1b99-4f50-b308-eb61b5d774bc.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -281,8 +281,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s20_a5b3d425-32a2-496d-b02d-cf705f0530f5.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -291,7 +291,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s21_404aa271-4452-4595-bd66-adc1181981c1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -301,7 +301,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s22_4b00be63-14cc-41c7-a499-d80557564362.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -311,7 +311,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s23_89bc9360-c026-4e7a-841e-43e3053b8dc2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -326,8 +326,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s24_bb0126b8-c4f3-413a-a36f-87e742329eb8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -341,8 +341,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s25_c6c9afee-643b-45f3-9fd6-ba930e706a70.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -356,8 +356,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s26_958be704-7215-4416-89ed-62f30ccf772c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -366,7 +366,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s27_b5df4697-4a6e-4079-9b67-3c13a19a6757.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -376,7 +376,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s28_cc608ae3-7c29-4763-8342-fc890742ca57.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -386,7 +386,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s29_2d93502a-59ec-48dd-bdd2-fb7ae1ab0896.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -401,8 +401,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s30_74063509-fef6-401c-839c-106861587fee.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
