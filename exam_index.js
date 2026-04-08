@@ -4,7 +4,7 @@ window.EXAM_INDEX = {
   "sources": [
     {
       "id": "000_PYQ",
-      "name": "🔥 Zeal Mock Tests (AIR 1 Tracker)",
+      "name": "🔥 Zeal Mock Tests (AIR Tracker)",
       "category": "pyq",
       "children": [
         {
