@@ -16,8 +16,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s1_04b0f2f9-61b4-4ac1-b0fe-db4aed05bd1e.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -31,8 +31,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s2_27aeeb33-ce1f-47dc-914d-f5d8fdca3bf9.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -46,8 +46,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s3_c4b0434a-04cf-4482-999d-b9a3c15ed5f0.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -61,8 +61,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s4_85db6fda-1f3a-4582-a81c-efcd402be977.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -76,8 +76,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s5_9d9173fc-36a5-49f9-aac7-bfdb3faf5a91.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -91,7 +91,7 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s6_ec2c8e50-a477-41f1-8701-483ba2020a53.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -106,8 +106,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s7_d5602ff6-0c6c-48c8-90d0-a5918378007e.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -116,7 +116,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s8_7976979e-0654-4232-b028-3d94f4411666.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -131,8 +131,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s9_86e3d375-2cb9-4b94-ad01-baf7d6638f03.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -146,8 +146,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s10_375698f5-f653-45e4-a022-3be11cef99ac.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -156,7 +156,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s11_5dcaec62-e1b6-4ffa-9e6f-c3fa44c100d0.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -171,7 +171,7 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s12_ff1eb24d-d58c-4280-aba1-52da129dd5ab.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -186,7 +186,7 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s13_e797f7a0-83d2-4770-bbee-c6a7ab74c77b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -201,8 +201,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s14_691b00de-7b2d-47fb-abf9-91574d2088c9.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -216,8 +216,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s15_ecf77539-9bb3-4ef2-9809-c3a1702ccf8a.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s15_8840e9eb-e962-41b5-970d-75b9a93e425a.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -226,7 +226,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s16_7b30d9ab-a380-44d2-b830-097fb4a9805f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -241,8 +241,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s17_78d79c7c-dd98-4964-845c-31305cd260a8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -256,8 +256,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s18_85d29ad3-ebdd-4eaa-9c08-6f2768e373d7.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -271,8 +271,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s19_7e0b6134-caf3-44d0-824b-96b8ece8f86d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -286,7 +286,7 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s20_05bd5413-3dc8-48f8-889b-67439641c401.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -301,8 +301,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s21_e4eed6c6-5126-4377-afe5-191c5b2083ad.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -316,8 +316,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s22_583fad35-f328-48fd-bf88-b9d51ca937f1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -326,7 +326,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s23_7b63137a-2d42-4420-992b-e4b6a9975269.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -336,7 +336,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s24_5958229f-44da-4478-b16e-f387ce65fdf2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -346,7 +346,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s25_a62d9bfe-080d-4821-b704-9e6dd9dd81f6.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
@@ -361,8 +361,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s26_e81a1dae-3886-4e88-ac48-f4c079983f64.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -376,8 +376,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s27_91c7191b-a7b6-4339-ac0c-86df7acd23b3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -391,8 +391,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s28_084cf35e-04c4-4a0b-90a7-e78559cae2fa.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s28_fc35983c-f7f0-450e-899e-0499708ab9e0.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -406,8 +406,8 @@
             "<b>D.</b>"
           ],
           "correct_answer": "",
-          "marks": 2,
-          "negative_marks": 0.66,
+          "marks": 1,
+          "negative_marks": 0.33,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s29_2676e5c1-bc73-44c6-b6b4-b855519eef89.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
         {
@@ -416,7 +416,7 @@
           "type": "numerical",
           "options": [],
           "correct_answer": "",
-          "marks": 2,
+          "marks": 1,
           "negative_marks": 0,
           "explanation": "<img src=\"images/Test_ID_-_70_[Mock_-_5]_-_2026/s30_embedded_sol_30.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
         },
