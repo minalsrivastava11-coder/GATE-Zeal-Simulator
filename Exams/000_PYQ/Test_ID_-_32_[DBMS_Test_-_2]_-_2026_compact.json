@@ -4,7 +4,263 @@
   "sections": [
     {
       "name": "Test ID - 32 [DBMS Test - 2] - 2026",
-      "questions": []
+      "questions": [
+        {
+          "id": 1,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q1_7827cc89-0a1b-4df2-aa1f-ea8bb8dae78d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s1_4036122c-6e75-4272-87e0-f6ada9c9b311.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 2,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q2_76603387-d7a4-427e-8b2c-fac458bedd15.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s2_16db34be-ca15-4eab-9488-0bb75b0e2586.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s2_483cbca4-43df-498a-9b29-0f7e46bb83ef.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s2_0954512c-f1f1-4bbb-b2d3-e37f501b01df.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 3,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q3_4f3b0a56-6f7e-46e8-beb9-56ef7fa2327c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s3_12c4a175-1aee-4c5a-a2e2-5fbd0691c393.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 4,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q4_0d417199-2b4b-4145-944a-7b073adb7027.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s4_392a3f3b-128e-4056-9574-ecaece7c2e03.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s4_21c09f63-cde6-4b4f-bbc5-4208f8c22e89.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 5,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q5_30f4f544-7deb-4ea6-83a1-bd1692c42215.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s5_c7ec7c0a-8c63-4f3d-8f55-f37cd930b6c4.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s5_d45028e6-2196-40e7-9bd0-59ec70658d25.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 6,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q6_86b90612-2e55-437a-8fac-990fdb3d36ef.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s6_e6457081-8215-4cc5-807a-79ba7eeb4eb3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 7,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q7_1d43cc87-5127-4434-8c7b-be4a3b2ef9a0.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s7_e1432f0e-08d5-48e9-85a1-ae90281c1716.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s7_03c08f1b-8228-4d2e-ab34-c6e3e43df738.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 8,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q8_1ddc9b2c-43df-40c7-9aca-d05786d785c3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s8_14e44ccb-a95b-4698-92fe-a1d4d7c39a72.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 9,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q9_10704f76-4ad5-4abf-884b-51d3156d8a50.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s9_494bc80c-f826-4977-9e3f-299eff3cc6c0.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s9_c8f4fcab-0679-48b1-9798-3763379e1689.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s9_a2c991b9-91e4-4142-921e-d89a7c141ad7.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 10,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q10_b26f6048-3a8d-4b9b-8afa-0e7cfd48a633.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s10_cb726d74-6e50-459b-a7fa-c09d21377916.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 11,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q11_57584e54-4fb9-4147-b749-e498a57e6a73.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s11_9b2ab322-51f2-4963-8e33-99dc6f2486c6.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s11_eedbdcb1-13c7-483b-91a6-a4457af2601a.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 12,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q12_06e5847f-9592-43fb-893b-9a33183790bf.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s12_be782b70-91e6-4bfa-9582-4d9c7303e45f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 13,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q13_2ab0f0c4-7ec6-4c0a-9546-bf5221d6e9dc.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s13_edcffb30-0254-4944-a170-8396d2a41455.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s13_embedded_sol_13.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 14,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q14_047c8942-285d-42f8-86a8-4c9953684321.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s14_5d200835-0efc-4465-a1f8-2f80572c7a88.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s14_904de42c-b72b-4eb3-b471-ad95f2d8cd4e.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 15,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q15_36abad32-fbb2-4c98-a82a-cf2a6e8249c7.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s15_292c2fbf-3890-4029-b3c6-6f2fb928fe85.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 16,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q16_b8aff59e-4e70-4012-9d95-3b6b0e347b83.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s16_581a65b6-24f3-46ed-ba85-11a5c26d5701.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 17,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q17_a52f1e3b-2237-4b8d-9a02-9dfd1de3a3a5.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s17_97b4dec8-9417-40ab-834c-70c94e3b46cc.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 18,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q18_1581eca1-015f-4b76-a551-ec235eb6cd6d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s18_3c5a56b4-969e-4887-9788-75151a14148b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 19,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q19_ec418c87-9d1b-4359-bb0a-bc250d8bd5b8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s19_ef932e3b-916b-46a2-9443-294283dceb86.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 20,
+          "question": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/q20_baa06549-1ba4-4936-83a7-6330c157a299.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_32_[DBMS_Test_-_2]_-_2026/s20_c14035fd-ba29-485b-b322-520436d1cf49.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        }
+      ]
     }
   ]
 }

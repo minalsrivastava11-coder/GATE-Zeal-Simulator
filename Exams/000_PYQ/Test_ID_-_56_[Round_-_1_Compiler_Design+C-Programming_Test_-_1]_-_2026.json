@@ -4,7 +4,493 @@
   "sections": [
     {
       "name": "Test ID - 56 [Round - 1 Compiler Design+C-Programming Test - 1] - 2026",
-      "questions": []
+      "questions": [
+        {
+          "id": 1,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q1_bb89d03b-257e-4709-85ce-336c06cb18b7.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s1_4d57b3a0-af30-430f-ade8-bce7618855e9.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s1_99a02777-e694-4918-8174-267622e2c0cd.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s1_fd8d46d9-94d7-452a-b8d1-162e8d71b29c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 2,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q2_e7d38a15-c6ef-4a1c-8827-5a535a42b06c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s2_embedded_sol_2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 3,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q3_b6dccd08-2617-4276-acda-d4a1e1e4d23a.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s3_df7a4cb1-4205-40d5-8a54-0b0ca12e9133.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 4,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q4_076c0b34-67f4-4c4d-a015-7cc74341c02b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s4_fbedee6c-c2a3-4079-8223-81868f5aeafb.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s4_8cab6181-65b1-41b1-a5f4-252b15a4f34e.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s4_78e51f59-596d-41fc-af76-0e30e7e70a61.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 5,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q5_90068be4-5a8a-4b42-8a81-1175cdb29292.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s5_5a18a8a2-6698-400f-a660-970eed2a143d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 6,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q6_67289107-31b8-4a5d-98c0-341194678675.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s6_75d928f9-1778-4935-9ed4-a6a287b1eca7.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 7,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q7_8b82c319-b70d-47dd-b222-2a93fdd2d44e.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s7_89626d4c-a713-46ea-8efd-af15d8e86a15.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 8,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q8_a9e45d1b-9f22-4139-9c85-7d490bc8298c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s8_e2c6bdf7-081d-48c5-8f30-c9b1faf7159e.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 9,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q9_20403b14-d991-4cf8-a0bd-d9127ac5036f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s9_21864101-392a-482c-bdc1-9eaa74d7d117.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 10,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q10_d569c4db-1720-4426-b756-a0a17c5269ba.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q10_653548b3-f088-4bac-8e9f-5e9325c09a6f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s10_204d0fdc-f63a-43a0-9e38-e6928c91e8a4.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 11,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q11_80fe0ad5-6043-4684-9b96-da6f663de07c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s11_30b2df9b-e162-4e46-9d78-90309ea8b462.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 12,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q12_60a93847-3ae2-41b4-85ee-f127b2f9636c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s12_bac2d59e-43a7-488a-b344-7dda30ac450b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s12_3059f3e9-811f-4ac3-a1bb-9b5d461db7b0.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 13,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q13_e2d7b070-148b-411f-b3af-59c52b9b182d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s13_d4273d70-4043-47aa-978a-fc58adc37de8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 14,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q14_b779ecbc-169f-461f-8b12-68daa87999fe.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s14_2de2b359-f35a-40e4-91e6-4a5f2bbf4aeb.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s14_692ebaf8-fbb2-4d88-952a-35072be6acb8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 15,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q15_61450483-c37b-4f80-9a61-029ca76f80a8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s15_01c94f90-2245-4e04-8444-01b09eba9f85.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s15_0dafe72b-e124-465e-95d0-96cc1ee2bfc7.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 16,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q16_19fe60e7-3792-47c3-bcfe-d2956be4f06c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s16_9e681d65-6d3d-44f7-822d-e41b973e54c7.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 17,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q17_8178b361-5e03-4a88-8e23-9ed03e66791d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s17_c114270d-6abc-4a32-aa71-89abc51ffb43.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s17_24795b86-4be5-4385-8197-2480c05ff678.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 18,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q18_33ffe3e0-614c-4bc1-b0c6-4064faf952b6.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s18_d4c0c232-1630-44de-843f-2646b4ac2efb.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s18_29a04d4c-72e1-456c-a6d0-d545e4b9f7df.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 19,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q19_64ae8133-ec23-4a68-bb0e-96ade299f979.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s19_738dbffd-e75a-4cb6-b4d1-3fa5d3c9bc9b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 20,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q20_f23f0a3f-3a76-4f06-ad08-ba9c8999c666.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s20_a780bfd1-915c-4f59-96e9-90504cf921b2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 21,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q21_237c7439-8626-4fd8-878b-038fc66abecf.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s21_8486fa90-4903-4237-b058-c460a87b2519.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 22,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q22_275ba69f-239b-4b96-a13f-e8385c1ff677.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s22_0fc59de9-6729-4dd8-b2cb-cbecb1ce2087.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s22_df73822c-da1d-4853-8440-de8791fbc28e.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 23,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q23_87f2b65c-bcd3-49c8-8cbe-74f27708f840.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s23_533f9fea-d3a5-445e-ab55-abb427b94cf1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 24,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q24_131a5eaa-7007-44c3-a184-8e6299be83bf.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s24_4ecd6791-ebb1-4ab8-bd5f-382dfac3e8c3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 25,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q25_ac8f1a5f-b083-40e2-b194-60c9dffd6158.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s25_2cbaca1f-62ae-4413-a120-daa3ce7ab3d7.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 26,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q26_c674a5d8-6f36-4006-9dc1-460503db3e73.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s26_734e841a-5557-47b9-910f-863815864f3b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 27,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q27_e561b9b0-91ab-4fd8-adc0-8fecc13d05a7.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s27_05ff893b-0237-44e2-9904-7b65653c0212.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s27_6fb17eba-21e3-444e-8b6e-2a0f9d687c29.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s27_70a1da37-0bbc-46f7-beb3-b001ee4cdee7.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s27_080d1928-c77d-4fd3-ae3a-34c7b60e47f3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s27_3e094613-0223-469c-b49f-29279339f510.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 28,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q28_b201e90f-4a0a-425e-a8f9-a21d37ee5171.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s28_862fc968-e0e0-4d66-8fa5-9ec7e39beaae.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 29,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q29_72d27ae4-5f6e-45ab-92b3-55b6eb1c4e50.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s29_3f666a40-1b99-4466-b779-49f04fe21e7f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 30,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q30_2843b042-ef45-4cd0-a62e-d7763758ce93.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s30_cfedf955-6448-4ba8-9674-f0399858d2df.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 31,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q31_416ac319-0215-48aa-b1ba-473b2a37e5a1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s31_0e34c625-3e5c-44a1-b090-3185fdeb5e16.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 32,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q32_283337c7-beb8-4019-8a4a-5e4cb2fc0380.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s32_0cd50ce3-a330-4292-8717-15ad0eaa85bd.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 33,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q33_382cd9a7-ac32-4e1e-832f-f7f9cff60644.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s33_cec5d03f-9459-4790-a8b6-f35d82bfbcc2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 34,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q34_0bd2fd34-f542-4458-a380-650e509a8710.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s34_e629ef26-a8da-4e3c-9d17-13150d8d2caa.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 35,
+          "question": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q35_9095fc0e-004b-4e0b-bd8a-556dda5f7bfd.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/q35_a530674a-c757-4aa2-bc92-78993c8cc784.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s35_22716533-bf45-4d54-a132-980b925e3087.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_56_[Round_-_1_Compiler_Design+C-Programming_Test_-_1]_-_2026/s35_21e4b687-f6da-4027-bac6-d12bc8558a0d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        }
+      ]
     }
   ]
 }
