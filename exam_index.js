@@ -1,4 +1,4 @@
-window.EXAM_INDEX = {
+{
   "generated": "2026-04-08T12:00:00.000Z",
   "totalSources": 1,
   "sources": [
@@ -107,15 +107,4 @@ window.EXAM_INDEX = {
             { "type": "exam", "name": "All India Mock Test (AIMT) 2", "file": "Exams/000_PYQ/Test_ID_-_72_[AIMT_-_2]_-_2026.json", "questions": 65, "duration": 180 },
             { "type": "exam", "name": "Mock Test 7", "file": "Exams/000_PYQ/Test_ID_-_73_[Mock_-_7]_-_2026.json", "questions": 65, "duration": 180 },
             { "type": "exam", "name": "Mock Test 8", "file": "Exams/000_PYQ/Test_ID_-_74_[Mock_-_8]_-_2026.json", "questions": 65, "duration": 180 },
-            { "type": "exam", "name": "Mock Test 9", "file": "Exams/000_PYQ/Test_ID_-_75_[Mock_-_9]_-_2026.json", "questions": 65, "duration": 180 },
-            { "type": "exam", "name": "All India Mock Test (AIMT) 3", "file": "Exams/000_PYQ/Test_ID_-_76_[AIMT_-_3]_-_2026.json", "questions": 65, "duration": 180 },
-            { "type": "exam", "name": "Mock Test 10", "file": "Exams/000_PYQ/Test_ID_-_77__[Mock_-_10]_-_2026.json", "questions": 65, "duration": 180 },
-            { "type": "exam", "name": "Mock Test 11", "file": "Exams/000_PYQ/Test_ID_-_78_[Mock_-_11]_-_2026.json", "questions": 65, "duration": 180 },
-            { "type": "exam", "name": "Mock Test 12", "file": "Exams/000_PYQ/Test_ID_-_79_[Mock_-_12]_-_2026.json", "questions": 65, "duration": 180 },
-            { "type": "exam", "name": "All India Mock Test (AIMT) 4", "file": "Exams/000_PYQ/Test_ID_-_80_[AIMT_-_4]_-_2026.json", "questions": 65, "duration": 180 }
-          ]
-        }
-      ]
-    }
-  ]
-};
+            { "type": "exam", "name": "Mock Test 9", "file": "
