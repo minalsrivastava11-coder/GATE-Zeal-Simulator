@@ -4,7 +4,868 @@
   "sections": [
     {
       "name": "General Aptitude",
-      "questions": []
+      "questions": [
+        {
+          "id": 1,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q1_9087c930-828d-42ad-844c-095190b53c88.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s1_embedded_sol_1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 2,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q2_346b2c33-6677-4b80-92e2-0dbfb8174ce3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s2_b4d9c945-2443-4a20-ab63-7dcb4f4195cf.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 3,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q3_31fae979-0cf9-4924-a8c0-f240e6384f1e.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s3_embedded_sol_3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 4,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q4_5946a597-92ee-4d9a-b97f-902d95354d22.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s4_fe61987f-15cf-4f4f-9bfb-34402f85cc00.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 5,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q5_2f5533cf-7f47-4cc0-a7a2-285a3bac41b8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s5_3cc2e3b7-133b-4324-b5e4-f06b9f593714.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 6,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q6_294eb850-3f6c-43a3-a52f-51facf1a2035.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s6_02c40360-1306-411c-95d5-61db0369731b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 7,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q7_a7962037-b75c-4a6f-b91c-29eade6a4bf0.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s7_3840d381-2eb7-4dda-a1a4-96d90b098c96.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 8,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q8_addc25b2-57f9-4ec8-8102-09dfe4ad9231.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s8_aa93e4ea-ff4e-40c1-b311-a2472090f56f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 9,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q9_8e8f41f3-19a8-49c4-a707-6ed0fe50aff9.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s9_eadbe8c0-831a-4664-91d2-9ff448adf7f2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 10,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q10_35f2e902-6d6d-43bc-b289-14e2521c2829.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s10_acbec653-fdeb-4901-a418-cc336e9708e1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 11,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q11_c4f1c013-bb04-4750-bbed-29af026abd7f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s11_7e20867e-a9b7-4659-a6b2-e3d1ab6bb0a1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 12,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q12_85194115-1e18-487f-856c-b28f2aac7a9d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s12_a38c5a87-99f9-47d3-a342-2f7565ee4708.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 13,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q13_6299c257-98ce-43d3-a67e-571181b35cef.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s13_73e5f3d1-d3e8-473a-a832-d3b3073b9748.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 14,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q14_45b968e6-88c8-4b60-8423-486217d135af.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s14_8cd7fd3a-3e63-419c-b11b-ca44de799b4c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 15,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q15_embedded_15.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s15_fcb96fab-707c-414b-a3ac-b7a79fb417d3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 16,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q16_1cd3994a-2940-4fff-a693-b8df76a237d3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s16_a03297c7-2fe0-4924-8ddc-df45fa8c50e6.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 17,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q17_f936e19e-50d4-429c-ac95-80344d6f118d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s17_d41dc6e0-67fc-4be0-ad3f-5ef3905a7263.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 18,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q18_1e3b9d55-cdc9-4aec-b7a4-676d6a83cce6.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s18_e26af0b8-8f03-4323-80f0-779919853724.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 19,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q19_e0e6830a-ea97-4315-93c8-8f7e46b9cc73.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s19_ddf11193-1b99-4f50-b308-eb61b5d774bc.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 20,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q20_43a9af13-f29e-4b48-a79c-12e775837962.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s20_a5b3d425-32a2-496d-b02d-cf705f0530f5.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 21,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q21_6afdbbbf-1b5d-4f96-a685-57a181d87b52.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s21_404aa271-4452-4595-bd66-adc1181981c1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 22,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q22_a16745e3-cb37-4b37-af76-f7c26ee7f702.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s22_4b00be63-14cc-41c7-a499-d80557564362.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 23,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q23_2409de73-68b6-45a8-8972-23acc8c18262.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s23_89bc9360-c026-4e7a-841e-43e3053b8dc2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 24,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q24_67350a2c-37e6-4f5b-a046-3185caa9d6d5.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s24_bb0126b8-c4f3-413a-a36f-87e742329eb8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 25,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q25_f37fd0e5-80a4-4c93-b44d-af343e54a149.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s25_c6c9afee-643b-45f3-9fd6-ba930e706a70.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 26,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q26_9eb17c44-25cc-4462-a7a4-7df7ccff9092.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s26_958be704-7215-4416-89ed-62f30ccf772c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 27,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q27_b0b5e6ca-72e2-4ce1-bb3d-3fc0aa01e76b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s27_b5df4697-4a6e-4079-9b67-3c13a19a6757.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 28,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q28_9ccce0bf-6a25-4cca-909f-ae611534ef4a.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s28_cc608ae3-7c29-4763-8342-fc890742ca57.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 29,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q29_c4354335-bd77-4e42-b2f3-b107a263f4b0.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s29_2d93502a-59ec-48dd-bdd2-fb7ae1ab0896.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 30,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q30_809f06e8-8632-4ed0-aef0-ba10f2552e6f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s30_74063509-fef6-401c-839c-106861587fee.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 31,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q31_embedded_31.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s31_fc52c36d-7cf6-4f47-b529-f434edeb32f4.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 32,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q32_de4816c4-8fc5-4068-bbcb-8fe657906d5c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s32_fab5963e-6d5b-42f5-92d8-f1dde2c20987.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s32_15c82fb4-e134-431b-b322-9f570d4321cf.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 33,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q33_efbd005d-eb18-465f-af50-dbf5d801b92a.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s33_c1f28308-5761-4ada-8635-d7a50d3582d8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 34,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q34_7f38728f-b2af-4566-bee8-6c9f46bdbbab.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s34_a230273f-c61b-425d-95da-469f17597c93.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 35,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q35_f77c66ee-a841-4a9d-842f-9ba53636bd83.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s35_5ddc023a-ea48-4c43-bbb9-82208c457fcb.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 36,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q36_d9e86712-15a0-4e16-911a-9b70b1ef8b82.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s36_b0b66f56-59e1-4bd1-8bab-f4e24de5b75d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 37,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q37_d58e7c34-33a8-407b-bbf5-fcf1fb6d6082.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s37_d74eadd5-af9d-4ec2-bf48-b2e3a1ddcbcc.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s37_b54a625f-9e00-4611-ad75-98268f790ef2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 38,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q38_fcc64e55-add6-4115-aee1-23c984799dec.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s38_b5567133-74bc-4ae8-afd3-55e981d9621f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s38_f65700a8-9073-47ac-a973-1e4d08d43ef9.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 39,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q39_0b73a9dc-e245-4489-8483-b8354f08d7f6.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s39_3b7da322-2c48-47e4-84ce-1abc57031ce2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 40,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q40_e29d8bb3-5c97-44d4-bf2a-0076100d0b70.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s40_embedded_sol_40.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 41,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q41_7a26ded8-d6a8-421d-957a-dd03ce771553.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s41_b14fbdd5-4d92-46dd-a772-0f8a443ce5db.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 42,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q42_ef1f416c-17a4-4117-87b9-ad4079d2ac77.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s42_2cf73fca-baf7-4319-8c16-96066e8be096.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s42_f868b742-260f-40aa-a577-da6d1709b955.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 43,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q43_12300f04-cf9a-4237-b069-4e1ea6b5a8da.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q43_48c55f79-3f8f-4ff3-9182-77d0eb2f67c0.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s43_c51bbbb1-619a-4707-b067-60238709f01c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 44,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q44_a92a5f38-4bab-46f7-bee1-8ebe9bb071f2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s44_11c6dcff-d8d6-4a68-a843-db19d7c0623d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 45,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q45_e2ad15ee-475a-40f4-81fc-6984c54c3cd5.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s45_f0191538-c714-47ff-b414-b772958def06.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 46,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q46_e6ca7286-cd6d-47ce-b5f3-776e922b42d2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s46_1d735d97-491a-4f05-aa4d-073c386ebb05.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s46_9a6d3c95-44fd-4b92-9536-708c0de8b5ac.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 47,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q47_b8958b25-27ef-4b5c-bbe4-6120e92e4f41.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s47_f2605a4a-b162-485a-ba7b-7e02739093c2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 48,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q48_c0a6ba09-1fc2-472f-b5be-e67c41c26ee6.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s48_114e1d13-d6a3-41dd-b46b-f2a3ead0663f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 49,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q49_1ac1a7e5-f4ca-40bc-9cce-6c011a8f81e6.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s49_3948cb77-7012-4b1f-863e-c9f2efe162a2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 50,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q50_embedded_50.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s50_bb995ecd-e28f-4284-96b1-7897061a46d8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 51,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q51_274bc9eb-5b72-4053-969d-951ee666c92b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s51_d717d0a2-1776-4378-b2c3-0e3599d27a35.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 52,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q52_52749931-7618-4cae-b894-d8ff8abc9f96.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s52_435e85dd-7ce7-4af8-926f-e3c79b6936f1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 53,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q53_41cc928b-af9d-4a12-b66c-9a4916b064a0.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s53_2d8f6a05-73a3-45e0-aa56-e8eed0e05de5.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s53_c3c21961-3bf3-4d06-b6a4-1d6f207dc601.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 54,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q54_165971e4-c8be-4cfe-8d77-7db5c1255941.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s54_a0bbfe8b-4ac1-4a30-a71c-32e237ecd85f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s54_ae280b3a-28be-4a80-9231-281aa6064650.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 55,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q55_082570de-1aeb-4278-99e6-4b391e4b7c79.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s55_e80b25d1-9e07-4915-981d-61ab3469952c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 56,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q56_embedded_56.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s56_b88ca51d-3c36-4eaf-815b-c6375b19e58a.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 57,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q57_bf7c5026-da12-4fa4-a2e9-9bf9bcf0edc1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s57_6d417fa1-8c8f-4d33-beb6-42ad7e9d8e8f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 58,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q58_8fa7bb2e-3807-477f-a196-f53edbf1da4c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "multiple",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s58_f33b009d-12ea-4e4f-aaf8-bcba3cd09bb4.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 59,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q59_baf8748e-3969-4c2b-a320-74a44718aebc.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s59_19d6ef59-4685-43d9-b843-c081ab1a235b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s59_0fd1e29f-b3e5-4c44-8eba-fdc0931177f9.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 60,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q60_bbbb74f2-d6c5-43cf-a667-236847aa387f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s60_d8c5634d-3f96-416d-b1c0-fd10c5d57da7.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 61,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q61_5d930458-aca9-406c-b72b-8cf1064a6c67.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q61_053e607b-bb0c-45e6-9293-dd9626f7bc26.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s61_32c5ae49-aa12-42b7-88b0-6c7dcfd19183.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s61_4b4a45c0-18ce-4ed0-98a2-1e90b9d154cb.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" /><br><br><img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s61_fd463236-b966-4bca-95f0-120a4c7b9c73.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 62,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q62_972937ff-afef-4ccb-afd0-00833f9c818e.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s62_212278c3-620a-4022-b9b0-4a82be2d17f6.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 63,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q63_8de8f56a-798a-46b2-bc84-b1f630500785.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s63_1edd76c2-80ab-405e-8b0b-6c95f573d663.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 64,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q64_d2bf2797-1462-48d4-af42-c32fdaf12ef3.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s64_6786ef4a-4802-4866-95ad-39f17ed945b8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 65,
+          "question": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/q65_8a2464f3-1e0c-4a03-a9a6-5063c6aa2aa8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_-_80_[AIMT_-_4]_-_2026/s65_7844ac39-a8fa-4331-a110-ce4e696aee63.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        }
+      ]
     }
   ]
 }

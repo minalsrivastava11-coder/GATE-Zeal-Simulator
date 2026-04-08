@@ -4,7 +4,593 @@
   "sections": [
     {
       "name": "Test ID 48 [Aptitude Full Test ] - 2026",
-      "questions": []
+      "questions": [
+        {
+          "id": 1,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q1_89b9ccfb-7e72-426d-975e-84c383780aa2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s1_c36cff8f-6c99-487f-8a3c-f8e5050d94b9.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 2,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q2_e04e8a6e-7226-4b79-96ab-0b5ee2426907.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s2_c4dff6ad-cd4a-49a0-a0e3-ef51c2e65364.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 3,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q3_972cd897-7e5e-43dd-971f-54566ae6256b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s3_442fd2ce-317c-414e-a709-e95270ddd855.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 4,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q4_164a448d-d51a-45ab-91d7-887703b6a192.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s4_9507eaca-4105-4c08-9800-1f14fb2381e9.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 5,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q5_76bd6a4d-ea40-4fc1-97a7-d99912c8152a.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s5_f5128ae4-046f-42db-9f1d-aa1160a446ba.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 6,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q6_400d030e-fd63-43a0-8338-519e1ace01f2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s6_ae70e975-6e7c-4ce6-bfa3-b43855cab1fa.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 7,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q7_d1e2875a-16ef-4444-b704-57d18d300200.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s7_a965be29-db46-4dcf-947b-be58043cb09f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 8,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q8_06b0c5c9-4051-4cc8-a654-4e2dd0cb31e5.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s8_embedded_sol_8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 9,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q9_8051bc61-cac1-4508-840e-71c64bf3c27c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s9_1a3645f9-5b38-4e9e-992e-df2d99e1f670.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 10,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q10_14a04f58-c22a-41e1-877b-580ca5afabfe.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s10_7c0ee27b-77c0-47e7-967a-d0663f81486d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 11,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q11_embedded_11.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s11_bc4d3c28-a66d-41d5-bf73-5ab7abc32b3d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 12,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q12_37bba025-a93c-4636-8dd9-6fba00d0a392.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s12_f60eaea0-7e60-42dc-9e53-41ce3a8bce83.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 13,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q13_797fcf29-103e-43cd-9341-be263792b9b8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s13_869f3c14-1632-4204-9c92-511e17196950.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 14,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q14_6a05ae07-d38d-43b7-9497-804067dded2d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s14_eff7dc3c-6819-4e4d-b07c-13698202b898.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 15,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q15_f05e2e23-079c-48aa-a363-9974ed6e999a.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s15_9068cb8d-a3dc-47cc-89dc-bb47d7d37e8f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 16,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q16_03d69038-641b-467d-9a44-fea5bcd6ed6f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s16_embedded_sol_16.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 17,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q17_f7ee75ad-2497-448f-be69-3c2649ef348f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s17_9a23f373-f537-416d-b25f-cb30bac2e470.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 18,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q18_2145225a-951d-48f7-b07f-c3efaf4bdad4.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s18_fabaff11-9a9b-4a56-865a-a4fd1464c915.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 19,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q19_5f24a828-fc8a-4953-89db-0d118c3d49d1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s19_5e261cfc-e446-479a-beeb-048604d450f9.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 20,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q20_723d226c-149f-4d0d-9103-02e5e6ed9794.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s20_a4f5c2d6-8308-404b-b032-4b5c7b6f80e4.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 21,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q21_af920d29-e1a2-4e21-8798-866454568723.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s21_c1c76173-8a52-4e42-b559-8608ee93e2c5.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 22,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q22_643f9bb9-c02b-4e90-8ade-995ec1e90c67.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s22_28910ff2-65b1-4550-8fcb-565a35633e5b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 23,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q23_c8eb239f-452c-404d-b15b-a8eb1f896c82.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s23_f96d73fd-117f-4149-bf31-d207aca7ac8b.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 24,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q24_cf36017f-bc5b-4817-8d9c-ece1b0eb82a1.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s24_465fdc87-e177-454a-87c6-113216e6f2ac.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 25,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q25_226968ba-f04a-4753-856c-a0cbe0960b38.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s25_93f160e6-9e7b-40cc-8a37-b605274c8711.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 26,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q26_fb220541-8179-4103-9cf5-0e575008a201.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s26_embedded_sol_26.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 27,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q27_5e9cf1d9-7c73-4c75-bf7d-77669b5e1cd2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s27_8f4b7a57-3eeb-40df-b12e-1353008c32eb.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 28,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q28_c314364e-7268-42a2-9640-967b16162b8f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s28_d819f0af-586f-4c99-aa4b-8960a8df8961.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 29,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q29_f4f5c20e-b248-40ad-bf12-57caae787c02.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "numerical",
+          "options": [],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s29_155ffe97-89d5-46e3-8ac4-e86cee541bcd.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 30,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q30_6e67385f-2b24-479d-bb36-9cc10f81730f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s30_0470f1a5-f6ec-47fa-8a78-10f0c43f3059.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 31,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q31_aefd690b-2910-45d9-b4c5-d2558205d5cd.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s31_304aa8ca-c082-48c7-9b32-dd34c27fc34d.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 32,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q32_1fe77e1f-4ecf-41c0-9444-2f1201758d27.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s32_4133d78d-2a35-435d-8a17-4e77395580f9.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 33,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q33_7677cb3d-f2dd-4cf2-b503-85ffd278ff60.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s33_23d3c848-2fb2-402e-b8e1-d063670ad7e6.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 34,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q34_ce8847eb-0eb1-4a12-8abc-1bd443c736e2.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s34_f2bf042e-21a3-4d8b-84ce-0f6ce58dd500.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 35,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q35_c55542f8-be46-4785-9b0d-26995d68fe3e.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s35_5a7c4328-8c87-4752-b59c-8e86c82de317.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 36,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q36_bc88bf01-1037-4656-86a2-502bdbf9ad58.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s36_embedded_sol_36.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 37,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q37_4b525de9-b85b-4efd-a3a1-81300b95c345.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s37_973528ab-46c1-49a8-91c1-593600be4d09.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 38,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q38_52f3b2ec-4be9-4717-b524-328964997d15.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s38_96e9b076-627a-486e-ac1d-a7feab68290f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 39,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q39_9963bf38-5b42-4396-977b-87df7e83544c.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s39_7d750978-1278-489e-aa92-ef4a02261f57.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        },
+        {
+          "id": 40,
+          "question": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/q40_1926bb4f-777b-4e2d-a55e-6b2a3881a82f.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />",
+          "type": "single",
+          "options": [
+            "<b>A.</b>",
+            "<b>B.</b>",
+            "<b>C.</b>",
+            "<b>D.</b>"
+          ],
+          "correct_answer": "",
+          "marks": 2,
+          "negative_marks": 0.66,
+          "explanation": "<img src=\"images/Test_ID_48_[Aptitude_Full_Test_]_-_2026/s40_efb74766-b818-4225-9ef1-c9e612ef72b8.png\" style=\"max-width:100%; border: 1px solid #ddd; border-radius: 4px;\" />"
+        }
+      ]
     }
   ]
 }
